@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import_structure>
+	<community>
+		<name>CRIS</name>
+		<description />
+		<intro />
+		<copyright />
+		<sidebar />
+		<collection>
+			<name>Person</name>
+			<entity-type>Person</entity-type>
+			<submission-type>person</submission-type>
+			<description />
+			<intro />
+			<copyright />
+			<sidebar />
+			<license />
+			<provenance />
+		</collection>
+        <collection>
+            <name>Project</name>
+            <entity-type>Project</entity-type>
+			<submission-type>project</submission-type>
+            <description />
+            <intro />
+            <copyright />
+            <sidebar />
+            <license />
+            <provenance />
+        </collection>
+        <collection>
+            <name>Funding</name>
+            <entity-type>Funding</entity-type>
+            <submission-type>funding</submission-type>
+            <description />
+            <intro />
+            <copyright />
+            <sidebar />
+            <license />
+            <provenance />
+        </collection>
+        <collection>
+            <name>OrgUnit</name>
+            <entity-type>OrgUnit</entity-type>
+			<submission-type>orgunit</submission-type>
+            <description />
+            <intro />
+            <copyright />
+            <sidebar />
+            <license />
+            <provenance />
+        </collection>
+	</community>
+</import_structure>
+
+
+
+
+
+
+
