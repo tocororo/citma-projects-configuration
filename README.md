@@ -8,7 +8,14 @@ Se utilizó como base la carpeta de [configuración de DspaceCRIS](https://githu
 
 Aquí se detallan las especificidades de los metadatos, vocabularios controlados, etc.
 
-## Notas
+## Contenido de este repositorio
 
-- **dspace/config/citma-structure.xml**: define las principales colecciones y comunidades
-- **dspace/config/sumission-forms.xml**: define los formularios para importar datos
+- **dspace**: contiene las configuraciones del servidor DspaceCris
+  - **dspace/config/citma-structure.xml**: define las principales colecciones y comunidades
+  - **dspace/config/sumission-forms.xml**: define los formularios para importar datos
+
+- **angular**: contiene las configuraciones de la interfaz
+  - **dspace-ui.json**: configuracion para el servicio pm2
+  - **config/config.prod.yml**: configuracion de dspace-angular
+
+- **data**: contiene datos de ejemplos
