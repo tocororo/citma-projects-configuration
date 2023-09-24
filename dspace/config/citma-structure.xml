@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <import_structure>
-	<community>
-		<name>CRIS</name>
-		<description />
-		<intro />
-		<copyright />
-		<sidebar />
-		<collection>
-			<name>Person</name>
-			<entity-type>Person</entity-type>
-			<submission-type>person</submission-type>
-			<description />
-			<intro />
-			<copyright />
-			<sidebar />
-			<license />
-			<provenance />
-		</collection>
+    <community>
+        <name>General</name>
+        <description />
+        <intro />
+        <copyright />
+        <sidebar />
         <collection>
-            <name>Project</name>
-            <entity-type>Project</entity-type>
-			<submission-type>project</submission-type>
+            <name>Personas</name>
+            <entity-type>Person</entity-type>
+            <submission-type>person</submission-type>
             <description />
             <intro />
             <copyright />
@@ -29,7 +18,18 @@
             <provenance />
         </collection>
         <collection>
-            <name>Funding</name>
+            <name>Proyectos</name>
+            <entity-type>Project</entity-type>
+            <submission-type>project</submission-type>
+            <description />
+            <intro />
+            <copyright />
+            <sidebar />
+            <license />
+            <provenance />
+        </collection>
+        <collection>
+            <name>Programas</name>
             <entity-type>Funding</entity-type>
             <submission-type>funding</submission-type>
             <description />
@@ -40,9 +40,9 @@
             <provenance />
         </collection>
         <collection>
-            <name>OrgUnit</name>
+            <name>Organizaciones</name>
             <entity-type>OrgUnit</entity-type>
-			<submission-type>orgunit</submission-type>
+            <submission-type>orgunit</submission-type>
             <description />
             <intro />
             <copyright />
@@ -50,12 +50,5 @@
             <license />
             <provenance />
         </collection>
-	</community>
+    </community>
 </import_structure>
-
-
-
-
-
-
-
