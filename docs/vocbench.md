@@ -30,4 +30,4 @@ Se propone utilizar la palabra **scheme** para nombrar el esquema de los vocabul
 
 6- Una vez creado el esquema se puede proceder a adicionar todos los términos (con las correspondientes relaciones entre ellos), en la pestaña **Concept**.
 
-![Projects](../images/vocbench-06-vocab-concept.jpeg)
+![Projects](../images/vocbench-07-vocab-concept.jpeg)
